@@ -22,7 +22,7 @@ const NavBar = () => {
                   Pizzas
                 </Link>
                 <Link to="/burgers" className="item-link">
-                  Burgers
+                  Burger
                 </Link>
                 <Link to="/sandwiches" className="item-link">
                   Sandwiches
